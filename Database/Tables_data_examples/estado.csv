@@ -1,0 +1,6 @@
+id;tipo_estado_id;nombre;estado
+1;1;En mantenimiento;1
+2;1;libre;1
+3;2;activo;1
+4;2;inactivo;1
+5;3;Ocupado;0
